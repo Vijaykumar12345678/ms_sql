@@ -2,7 +2,7 @@
 /*
 @Author:Vijay Kumar M N 
 @Date: 2024-09-21
-@Last Modified by: Rahul
+@Last Modified by: Vijay Kumar M N
 @Last Modified: 2024-09-21
 @Title :Sql Queries on covid dataset
 
